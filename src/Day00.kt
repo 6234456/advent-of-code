@@ -1,6 +1,3 @@
-import java.util.PriorityQueue
-import kotlin.math.abs
-
 fun main() {
     val day = 4
 
